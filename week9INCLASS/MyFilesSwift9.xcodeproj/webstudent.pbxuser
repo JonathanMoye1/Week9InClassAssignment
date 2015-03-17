@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	0D48281F1AB7C7190051BD8A /* MyFilesSwift9 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MyFilesSwift9;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0D48282D1AB7C71C0051BD8A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0D48282E1AB7C71C0051BD8A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3623B3CC1AB79D4400AE0EE8 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0D48281F1AB7C7190051BD8A /* MyFilesSwift9 */;
+		activeTarget = 3623B3D31AB79D4400AE0EE8 /* MyFilesSwift9 */;
+		codeSenseManager = 0D48282E1AB7C71C0051BD8A /* Code sense */;
+		executables = (
+			0D48281F1AB7C7190051BD8A /* MyFilesSwift9 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 448251673;
+			PBXWorkspaceStateSaveDate = 448251673;
+		};
+		sourceControlManager = 0D48282D1AB7C71C0051BD8A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3623B3D31AB79D4400AE0EE8 /* MyFilesSwift9 */ = {
+		activeExec = 0;
+		executables = (
+			0D48281F1AB7C7190051BD8A /* MyFilesSwift9 */,
+		);
+	};
+	3623B3E81AB79D4400AE0EE8 /* MyFilesSwift9Tests */ = {
+		activeExec = 0;
+	};
+}
